@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-GitHub Stats 📊
-<details> <summary>✨ **My GitHub Stats**</summary>
-
-</details> <details> <summary>🌎 **Most Used Languages**</summary>
-
-</details>
