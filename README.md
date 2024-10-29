@@ -23,8 +23,9 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shuchismita-anwar-034759218/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shuchismita-anwar)  
-**Email**: [shuchismita.anwar@gmail.com](mailto:shuchismita.anwar@gmail.com)
-**Portfolio**: [https://shuchismita-anwar.vercel.app/]
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shuchismita.anwar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shuchismita-anwar.vercel.app/)
+
 
 ---
 <!--
