@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
 
 - **🌱 Currently working on:**: Quantum machine learning models and medical image analysis projects.
 - **💼 Open to Collaborate**: Always interested in open-source projects and research collaborations in healthcare, ML, and quantum computing.
-- **🎨 Ask me about**: Machine learning, Quantum computing, and, of course, cats 🐾
+- **🎨 Ask me about**: Machine learning, Quantum computing, and, Computer Vision 🐾
 
 ---
 
