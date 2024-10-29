@@ -15,8 +15,11 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
 
 ## 🎬 Here’s a glimpse of me at work:
 
-<iframe src="https://giphy.com/embed/pVmh7HR0cA2xOlet1z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-type-typing-chatting-pVmh7HR0cA2xOlet1z">via GIPHY</a></p>
+![Glimpse of me at work](https://media.giphy.com/media/pVmh7HR0cA2xOlet1z/giphy.gif)
 
+---
+
+via [GIPHY](https://giphy.com/gifs/pudgypenguins-type-typing-chatting-pVmh7HR0cA2xOlet1z)
 ---
 
 ### Connect with Me
