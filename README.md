@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
 
 ---
 
-via [GIPHY](https://giphy.com/gifs/pudgypenguins-type-typing-chatting-pVmh7HR0cA2xOlet1z)
----
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shuchismita-anwar-034759218/) 
