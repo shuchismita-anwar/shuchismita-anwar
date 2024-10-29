@@ -15,15 +15,9 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
 
 ### GitHub Stats 📊
 
-<details>
-  <summary>✨ **My GitHub Stats**</summary>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuchismita-anwar&show_icons=true&theme=radical)
-  
-</details>
 
 <details>
-  <summary>🌎 **Most Used Languages**</summary>
+🌎 Most Used Languages
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuchismita-anwar&layout=compact&theme=radical)
   
