@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hey there! I’m Shuchismita 🌸🐾
 <!--
 **shuchismita-anwar/shuchismita-anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
