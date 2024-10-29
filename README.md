@@ -3,8 +3,6 @@
 
 Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate from BRAC University, with a strong focus on **Machine Learning**, **Quantum Computing**, and **Computer Vision**. I’m passionate about leveraging technology to drive impactful changes.
 
----
-
 <table>
   <tr>
     <td style="vertical-align: top;">
@@ -24,8 +22,6 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
 ---
 
 ### GitHub Stats 📊
-
-
 
 ## 🌎 Most Used Languages
   
