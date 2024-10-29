@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
       </ul>
     </td>
     <td>
-      <h2>🎬 Here’s a glimpse of me at work:</h2>
-      <img src="https://media.giphy.com/media/pVmh7HR0cA2xOlet1z/giphy.gif" alt="Glimpse of me at work" width="300"/>
+      <h2> </h2>
+      <img src="https://media.giphy.com/media/pVmh7HR0cA2xOlet1z/giphy.gif" alt="Glimpse of me at work" width="200"/>
     </td>
   </tr>
 </table>
