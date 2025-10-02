@@ -1,7 +1,7 @@
 ## Hey there! I’m Shuchismita 🌸🐾  
-**Developer | Researcher | Machine Learning & Quantum Computing Enthusiast**
+**Developer | Researcher | Multimodal Learning Learning & Large Language Model Enthusiast**
 
-Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate from BRAC University, with a strong focus on **Machine Learning**, **Quantum Computing**, and **Computer Vision**. I’m passionate about leveraging technology to drive impactful changes.
+Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate from BRAC University, with a strong focus on **Machine Learning**, **Multimodal Learning**, and **Natural Language Processing**. I’m passionate about leveraging technology to drive impactful changes.
 
 <table>
   <tr>
@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate 
       <h2>🌐 About Me</h2>
       <ul>
         <li><strong>🌱 Currently working on:</strong> Quantum machine learning models and medical image analysis projects.</li>
-        <li><strong>💼 Open to Collaborate:</strong> Always interested in open-source projects and research collaborations in healthcare, ML, and quantum computing.</li>
-        <li><strong>🎨 Ask me about:</strong> Machine learning, Quantum computing, and Computer Vision 🐾</li>
+        <li><strong>💼 Open to Collaborate:</strong> Always interested in open-source projects and research collaborations in healthcare, ML, and Computational Imaging.</li>
+        <li><strong>🎨 Ask me about:</strong> Machine learning, Large Language Model, and Computer Vision 🐾</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
