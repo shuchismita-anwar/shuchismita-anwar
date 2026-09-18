@@ -1,6 +1,6 @@
 # Hey there! I'm Shuchismita 🌸
 
-### researcher · developer · multimodal learning & human-centered AI
+### Researcher · Multimodal Learning · Human-Centered AI
 
 <table>
   <tr>
@@ -15,12 +15,12 @@ with a focus on building intelligent systems that can reason across different ty
 </p>
 
 <ul>
-  <li>🌷 Exploring <strong>multimodal learning & human behavior understanding</strong></li>
-  <li>🫧 Working with <strong>NLP, LLMs & low-resource language technologies</strong></li>
-  <li>🎀 Interested in <strong>computer vision & vision-language learning</strong></li>
-  <li>🩰 Exploring <strong>AI for healthcare</strong></li>
-  <li>📖 Building <strong>datasets, benchmarks & evaluation pipelines</strong></li>
-  <li>☕ Always happy to connect for interesting research collaborations</li>
+  <li>୨୧ Exploring <strong>multimodal learning & context-aware AI systems</strong></li>
+  <li>♡ Working with <strong>NLP, LLMs & low-resource language technologies</strong></li>
+  <li>✿ Interested in <strong>computer vision & vision-language learning</strong></li>
+  <li>˚₊‧ Exploring <strong>AI for healthcare</strong></li>
+  <li>⟡ Building <strong>datasets, benchmarks & evaluation pipelines</strong></li>
+  <li>꒰ঌ♡໒꒱ Open to interesting <strong>research collaborations</strong></li>
 </ul>
 
   </td>
@@ -54,10 +54,9 @@ with a focus on building intelligent systems that can reason across different ty
   <img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat&logoColor=555555" height="24">
 </p>
 
-
 ---
 
-## 🎀 Things I Work With
+## ✿ Things I Work With
 
 <p align="center">
 
@@ -81,7 +80,7 @@ with a focus on building intelligent systems that can reason across different ty
 
 ---
 
-## ☁️ GitHub Snapshot
+## ˚₊‧ GitHub Snapshot
 
 <p align="center">
   <img
@@ -92,7 +91,7 @@ with a focus on building intelligent systems that can reason across different ty
 
 ---
 
-## 💌 Let's Connect
+## ꒰ঌ♡໒꒱ Let's Connect
 
 <p align="center">
 
