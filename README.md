@@ -41,8 +41,15 @@ with a focus on building intelligent systems that can reason across different ty
 
 ## ♡ Research Interests
 
-`🌸 Multimodal Learning` `🧠 Human-Centered AI` `👁️ Computer Vision` `💬 NLP & LLMs`  
-`🏥 Healthcare AI` `📚 Dataset Development` `✨ AI Evaluation`
+<sub>
+🌸 Multimodal Learning &nbsp; · &nbsp;
+🧠 Human-Centered AI &nbsp; · &nbsp;
+👁️ Computer Vision &nbsp; · &nbsp;
+💬 NLP & LLMs &nbsp; · &nbsp;
+🏥 Healthcare AI &nbsp; · &nbsp;
+📚 Dataset Development &nbsp; · &nbsp;
+✨ AI Evaluation
+</sub>
 ---
 
 ## 🎀 Things I Work With
