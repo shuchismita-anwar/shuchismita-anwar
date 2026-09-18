@@ -6,22 +6,20 @@
   <tr>
     <td width="64%" valign="top">
 
-<h2>୨୧ About Me</h2>
+<h2>🌸 About Me</h2>
 
 <p>
-My research interests span
-<strong>Multimodal Machine Learning, Human-Centered AI, Computer Vision and NLP/LLMs</strong>,
-with a focus on building intelligent systems that can reason across different types of information and real-world contexts.
+I work across <strong>Multimodal Machine Learning, Human-Centered AI, Computer Vision and NLP/LLMs</strong>, with an interest in connecting different forms of information to build useful and context-aware AI systems.
 </p>
 
-<ul>
-  <li>୨୧ Exploring <strong>multimodal learning & context-aware AI systems</strong></li>
-  <li>♡ Working with <strong>NLP, LLMs & low-resource language technologies</strong></li>
-  <li>✿ Interested in <strong>computer vision & vision-language learning</strong></li>
-  <li>˚₊‧ Exploring <strong>AI for healthcare</strong></li>
-  <li>⟡ Building <strong>datasets, benchmarks & evaluation pipelines</strong></li>
-  <li>꒰ঌ♡໒꒱ Open to interesting <strong>research collaborations</strong></li>
-</ul>
+<p>
+🌷 Exploring <strong>multimodal learning & context-aware AI</strong><br>
+💭 Working with <strong>NLP, LLMs & low-resource language technologies</strong><br>
+👁️ Interested in <strong>computer vision & vision-language learning</strong><br>
+🩺 Exploring <strong>AI for healthcare</strong><br>
+📚 Building <strong>datasets, benchmarks & evaluation pipelines</strong><br>
+💌 Open to interesting <strong>research collaborations</strong>
+</p>
 
   </td>
 
@@ -39,24 +37,26 @@ with a focus on building intelligent systems that can reason across different ty
 
 ---
 
-## ♡ Research Interests
+## 🌷 Research Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat&logoColor=555555" height="24">
-  <img src="https://img.shields.io/badge/Human--Centered%20AI-E8DFF5?style=flat&logoColor=555555" height="24">
-  <img src="https://img.shields.io/badge/Computer%20Vision-DCEEFF?style=flat&logoColor=555555" height="24">
-  <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FDE2E4?style=flat&logoColor=555555" height="24">
-</p>
+<p align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Healthcare%20AI-D8F3DC?style=flat&logoColor=555555" height="24">
-  <img src="https://img.shields.io/badge/Dataset%20Development-FFF1B8?style=flat&logoColor=555555" height="24">
-  <img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat&logoColor=555555" height="24">
+<img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat&logoColor=555555" height="23">
+<img src="https://img.shields.io/badge/Human--Centered%20AI-E8DFF5?style=flat&logoColor=555555" height="23">
+<img src="https://img.shields.io/badge/Computer%20Vision-DCEEFF?style=flat&logoColor=555555" height="23">
+<img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FDE2E4?style=flat&logoColor=555555" height="23">
+
+<br>
+
+<img src="https://img.shields.io/badge/Healthcare%20AI-D8F3DC?style=flat&logoColor=555555" height="23">
+<img src="https://img.shields.io/badge/Dataset%20Development-FFF1B8?style=flat&logoColor=555555" height="23">
+<img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat&logoColor=555555" height="23">
+
 </p>
 
 ---
 
-## ✿ Things I Work With
+## 🎀 Things I Work With
 
 <p align="center">
 
@@ -80,7 +80,7 @@ with a focus on building intelligent systems that can reason across different ty
 
 ---
 
-## ˚₊‧ GitHub Snapshot
+## ☁️ GitHub Snapshot
 
 <p align="center">
   <img
@@ -91,20 +91,26 @@ with a focus on building intelligent systems that can reason across different ty
 
 ---
 
-## ꒰ঌ♡໒꒱ Let's Connect
+## 💌 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shuchismita-anwar-034759218/">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=555555">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=555555"
+  >
 </a>
 
 <a href="https://shuchismita-anwar.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-visit-E2D1F9?style=for-the-badge&logo=githubpages&logoColor=555555">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-E8DFF5?style=for-the-badge&logo=githubpages&logoColor=555555"
+  >
 </a>
 
 <a href="mailto:shuchismita.anwar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-say_hi-FFF1B8?style=for-the-badge&logo=gmail&logoColor=555555">
+  <img
+    src="https://img.shields.io/badge/Email-Say%20Hi-FFF1B8?style=for-the-badge&logo=gmail&logoColor=555555"
+  >
 </a>
 
 </p>
