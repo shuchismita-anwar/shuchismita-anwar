@@ -41,15 +41,20 @@ with a focus on building intelligent systems that can reason across different ty
 
 ## ♡ Research Interests
 
-<sub>
-🌸 Multimodal Learning &nbsp; · &nbsp;
-🧠 Human-Centered AI &nbsp; · &nbsp;
-👁️ Computer Vision &nbsp; · &nbsp;
-💬 NLP & LLMs &nbsp; · &nbsp;
-🏥 Healthcare AI &nbsp; · &nbsp;
-📚 Dataset Development &nbsp; · &nbsp;
-✨ AI Evaluation
-</sub>
+<p align="left">
+  <img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat&logoColor=555555" height="24">
+  <img src="https://img.shields.io/badge/Human--Centered%20AI-E8DFF5?style=flat&logoColor=555555" height="24">
+  <img src="https://img.shields.io/badge/Computer%20Vision-DCEEFF?style=flat&logoColor=555555" height="24">
+  <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FDE2E4?style=flat&logoColor=555555" height="24">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Healthcare%20AI-D8F3DC?style=flat&logoColor=555555" height="24">
+  <img src="https://img.shields.io/badge/Dataset%20Development-FFF1B8?style=flat&logoColor=555555" height="24">
+  <img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat&logoColor=555555" height="24">
+</p>
+
+
 ---
 
 ## 🎀 Things I Work With
