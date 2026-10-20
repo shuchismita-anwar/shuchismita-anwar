@@ -40,18 +40,13 @@ I work across <strong>Multimodal Machine Learning, Human-Centered AI, Computer V
 ## 🌷 Research Interests
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat&logoColor=555555" height="23">
 <img src="https://img.shields.io/badge/Human--Centered%20AI-E8DFF5?style=flat&logoColor=555555" height="23">
 <img src="https://img.shields.io/badge/Computer%20Vision-DCEEFF?style=flat&logoColor=555555" height="23">
 <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FDE2E4?style=flat&logoColor=555555" height="23">
-
-<br>
-
 <img src="https://img.shields.io/badge/Healthcare%20AI-D8F3DC?style=flat&logoColor=555555" height="23">
 <img src="https://img.shields.io/badge/Dataset%20Development-FFF1B8?style=flat&logoColor=555555" height="23">
 <img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat&logoColor=555555" height="23">
-
 </p>
 
 ---
@@ -59,23 +54,18 @@ I work across <strong>Multimodal Machine Learning, Human-Centered AI, Computer V
 ## 🎀 Things I Work With
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Python-F8C8DC?style=flat-square&logo=python&logoColor=555555">
 <img src="https://img.shields.io/badge/PyTorch-FADADD?style=flat-square&logo=pytorch&logoColor=555555">
 <img src="https://img.shields.io/badge/TensorFlow-FDE2E4?style=flat-square&logo=tensorflow&logoColor=555555">
 <img src="https://img.shields.io/badge/OpenCV-E2D1F9?style=flat-square&logo=opencv&logoColor=555555">
 <img src="https://img.shields.io/badge/Hugging%20Face-FFF1B8?style=flat-square&logo=huggingface&logoColor=555555">
 <img src="https://img.shields.io/badge/scikit--learn-DCEEFF?style=flat-square&logo=scikitlearn&logoColor=555555">
-
-<br>
-
 <img src="https://img.shields.io/badge/Pandas-E8DFF5?style=flat-square&logo=pandas&logoColor=555555">
 <img src="https://img.shields.io/badge/NumPy-DDEEFF?style=flat-square&logo=numpy&logoColor=555555">
 <img src="https://img.shields.io/badge/Git-FADCD9?style=flat-square&logo=git&logoColor=555555">
 <img src="https://img.shields.io/badge/Linux-FFF4C2?style=flat-square&logo=linux&logoColor=555555">
 <img src="https://img.shields.io/badge/Docker-D8EAFE?style=flat-square&logo=docker&logoColor=555555">
 <img src="https://img.shields.io/badge/LaTeX-D8F3DC?style=flat-square&logo=latex&logoColor=555555">
-
 </p>
 
 ---
