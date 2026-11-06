@@ -35,78 +35,64 @@ I work across <strong>Multimodal Machine Learning, Human-Centered AI, Computer V
   </tr>
 </table>
 
+
 ---
-
-
-
 <table width="100%">
-  <tr>
-    <td width="35%" align="center" valign="top">
-      <h3>🌷 Research Interests</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat">
-        <img src="https://img.shields.io/badge/Human--Centered%20AI-E8DFF5?style=flat">
-        <img src="https://img.shields.io/badge/Computer%20Vision-DCEEFF?style=flat">
-        <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FDE2E4?style=flat">
-        <img src="https://img.shields.io/badge/Healthcare%20AI-D8F3DC?style=flat">
-        <img src="https://img.shields.io/badge/Dataset%20Development-FFF1B8?style=flat">
-        <img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat">
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🎀 Things I Work With</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-F8C8DC?style=flat-square&logo=python">
-        <img src="https://img.shields.io/badge/PyTorch-FADADD?style=flat-square&logo=pytorch">
-        <img src="https://img.shields.io/badge/TensorFlow-FDE2E4?style=flat-square&logo=tensorflow">
-        <img src="https://img.shields.io/badge/OpenCV-E2D1F9?style=flat-square&logo=opencv">
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFF1B8?style=flat-square&logo=huggingface">
-        <img src="https://img.shields.io/badge/scikit--learn-DCEEFF?style=flat-square&logo=scikitlearn">
-        <img src="https://img.shields.io/badge/Pandas-E8DFF5?style=flat-square&logo=pandas">
-        <img src="https://img.shields.io/badge/NumPy-DDEEFF?style=flat-square&logo=numpy">
-        <img src="https://img.shields.io/badge/Git-FADCD9?style=flat-square&logo=git">
-        <img src="https://img.shields.io/badge/Linux-FFF4C2?style=flat-square&logo=linux">
-        <img src="https://img.shields.io/badge/Docker-D8EAFE?style=flat-square&logo=docker">
-        <img src="https://img.shields.io/badge/LaTeX-D8F3DC?style=flat-square&logo=latex">
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="40%" align="center" valign="top">
+<h3>🌷 Research Interests</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat">
+<img src="https://img.shields.io/badge/Human--Centered%20AI-E8DFF5?style=flat">
+<img src="https://img.shields.io/badge/Computer%20Vision-DCEEFF?style=flat">
+<img src="https://img.shields.io/badge/NLP%20%26%20LLMs-FDE2E4?style=flat">
+<img src="https://img.shields.io/badge/Healthcare%20AI-D8F3DC?style=flat">
+<img src="https://img.shields.io/badge/Dataset%20Development-FFF1B8?style=flat">
+<img src="https://img.shields.io/badge/AI%20Evaluation-FADADD?style=flat">
+</p>
+</td>
+<td width="60%" align="center" valign="top">
+<h3>🎀 Things I Work With</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-F8C8DC?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/PyTorch-FADADD?style=flat-square&logo=pytorch">
+<img src="https://img.shields.io/badge/TensorFlow-FDE2E4?style=flat-square&logo=tensorflow">
+<img src="https://img.shields.io/badge/OpenCV-E2D1F9?style=flat-square&logo=opencv">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFF1B8?style=flat-square&logo=huggingface">
+<img src="https://img.shields.io/badge/scikit--learn-DCEEFF?style=flat-square&logo=scikitlearn">
+<img src="https://img.shields.io/badge/Pandas-E8DFF5?style=flat-square&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-DDEEFF?style=flat-square&logo=numpy">
+<img src="https://img.shields.io/badge/Git-FADCD9?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/Linux-FFF4C2?style=flat-square&logo=linux">
+<img src="https://img.shields.io/badge/Docker-D8EAFE?style=flat-square&logo=docker">
+<img src="https://img.shields.io/badge/LaTeX-D8F3DC?style=flat-square&logo=latex">
+</p>
+</td>
+</tr>
+<tr>
+<td width="40%" align="center" valign="middle">
+<h3>💌 Let's Connect</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/shuchismita-anwar-034759218/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=555555">
+</a>
+<br>
+<a href="https://shuchismita-anwar.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-E8DFF5?style=for-the-badge&logo=githubpages&logoColor=555555">
+</a>
+<br>
+<a href="mailto:shuchismita.anwar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hi-FFF1B8?style=for-the-badge&logo=gmail&logoColor=555555">
+</a>
+</p>
+</td>
+<td width="60%" align="center" valign="middle">
+<h3>☁️ GitHub Snapshot</h3>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuchismita-anwar&theme=tokyonight" alt="GitHub Profile Details" width="100%">
+</p>
+</td>
+</tr>
 </table>
 
 
----
-
-## ☁️ GitHub Snapshot
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuchismita-anwar&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-</p>
-
----
-
-## 💌 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shuchismita-anwar-034759218/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=555555"
-  >
-</a>
-
-<a href="https://shuchismita-anwar.github.io/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit-E8DFF5?style=for-the-badge&logo=githubpages&logoColor=555555"
-  >
-</a>
-
-<a href="mailto:shuchismita.anwar@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Say%20Hi-FFF1B8?style=for-the-badge&logo=gmail&logoColor=555555"
-  >
-</a>
-
-</p>
