@@ -41,7 +41,7 @@ I work across <strong>Multimodal Machine Learning, Human-Centered AI, Computer V
 
 <table width="100%">
   <tr>
-    <td width="40%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <h3>🌷 Research Interests</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Multimodal%20Learning-F8C8DC?style=flat">
